@@ -1,0 +1,12 @@
+
+body { 
+    font-family: 'Lora', serif; 
+}
+
+a {
+    color: #ff4c4c; text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+
+h2, h3 { color: #ff4c4c; margin-bottom: 15px; }
